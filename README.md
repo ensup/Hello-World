@@ -1,7 +1,8 @@
 Hello World with Python
 ===
-<p>This is Hello World Program with Python</p>
-<p>Source Code:</p>
+This is Hello World Program with Python
+<br />
+Source Code:
 ```python
 print("Hello World!")
 print("Hello World!")
