@@ -1,6 +1,6 @@
-Hello World with Python
+﻿Hello World with Python
 ===
-This is Hello World Program with Python
+This is Hello World Program with Python.
 <br />
 Source Code:
 ```python
